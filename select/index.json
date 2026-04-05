@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "FLAMMABLE",
+  "base_artist": "Swae Lee",
+  "createdAt": "2026-04-05T15:41:25.001051Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Violent Yet Flammable World",
+      "artist": "Au Revoir Simone",
+      "has_synced": true,
+      "path": "select/01_A_Violent_Yet_Flammable_World_Au_Revoir_Simone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Violent Yet Flammable World (Montag Remix)",
+      "artist": "Au Revoir Simone",
+      "has_synced": false,
+      "path": "select/02_A_Violent_Yet_Flammable_World_(Montag_Remix)_Au_Revoir_Simone.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flammable",
+      "artist": "The Soft Pack",
+      "has_synced": true,
+      "path": "select/03_Flammable_The_Soft_Pack.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flammable",
+      "artist": "Biffy Clyro",
+      "has_synced": true,
+      "path": "select/04_Flammable_Biffy_Clyro.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm On Fire - Blue Daisy Flammable Mix",
+      "artist": "Stateless",
+      "has_synced": false,
+      "path": "select/05_I'm_On_Fire_-_Blue_Daisy_Flammable_Mix_Stateless.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm On Fire - Blue Daisy Flammable Mix",
+      "artist": "Stateless/Blue Daisy",
+      "has_synced": false,
+      "path": "select/06_I'm_On_Fire_-_Blue_Daisy_Flammable_Mix_Stateless_Blue_Daisy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flammable",
+      "artist": "Biffy Clyro",
+      "has_synced": true,
+      "path": "select/07_Flammable_Biffy_Clyro.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flammable",
+      "artist": "Coldworker",
+      "has_synced": false,
+      "path": "select/08_Flammable_Coldworker.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Violent Yet Flammable World-Montag",
+      "artist": "Au Revoir Simone",
+      "has_synced": false,
+      "path": "select/09_A_Violent_Yet_Flammable_World-Montag_Au_Revoir_Simone.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ignite The World (Flammable Riddim)",
+      "artist": "Vybz Kartel",
+      "has_synced": true,
+      "path": "select/10_Ignite_The_World_(Flammable_Riddim)_Vybz_Kartel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Flammable Man",
+      "artist": "Daughters",
+      "has_synced": true,
+      "path": "select/11_The_Flammable_Man_Daughters.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flammable",
+      "artist": "Biffy Clyro",
+      "has_synced": true,
+      "path": "select/12_Flammable_Biffy_Clyro.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flammable Animals",
+      "artist": "Death Therapy",
+      "has_synced": true,
+      "path": "select/13_Flammable_Animals_Death_Therapy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Flammable",
+      "artist": "Biffy Clyro",
+      "has_synced": true,
+      "path": "select/14_Flammable_Biffy_Clyro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FLAMMABLE",
+      "artist": "Swae Lee",
+      "has_synced": false,
+      "path": "select/pl_01_FLAMMABLE_Swae_Lee.txt"
+    }
+  ]
+}
